@@ -1,18 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D28D9,100:A855F7&height=180&section=header&text=Douglas%20Custódio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1F1F1F,100:666666&height=120&section=header&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Douglas+Cust%C3%B3dio+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+%F0%9F%9A%80;C%C3%B3digo+%2B+criatividade+%2B+tecnologia+%E2%9C%A8;Sempre+aprendendo+e+evoluindo+%F0%9F%93%88)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-douglas-branca.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-douglas-preta.svg">
+  <img alt="Logo Douglas Custódio" src="./assets/logo-douglas-preta.svg" width="720">
+</picture>
 
-![Visualizações](https://komarev.com/ghpvc/?username=douglascustodiodev&color=7C3AED&style=for-the-badge&label=VISITAS+NO+PERFIL)
-![Brasil](https://img.shields.io/badge/BRASIL-%F0%9F%87%A7%F0%9F%87%B7-16A34A?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/FULL%20STACK-DEVELOPER-6D28D9?style=for-the-badge)
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Douglas+Cust%C3%B3dio+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+%F0%9F%9A%80;C%C3%B3digo+%2B+criatividade+%2B+tecnologia+%E2%9C%A8;Sempre+aprendendo+e+evoluindo+%F0%9F%93%88">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=111111&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Douglas+Cust%C3%B3dio+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+%F0%9F%9A%80;C%C3%B3digo+%2B+criatividade+%2B+tecnologia+%E2%9C%A8;Sempre+aprendendo+e+evoluindo+%F0%9F%93%88">
+  <img alt="Apresentação animada de Douglas Custódio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=111111&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Douglas+Cust%C3%B3dio+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%93%88">
+</picture>
+
+<br>
+
+![Visualizações](https://komarev.com/ghpvc/?username=douglascustodiodev&color=111111&style=for-the-badge&label=VISITAS+NO+PERFIL)
+![Brasil](https://img.shields.io/badge/BRASIL-%F0%9F%87%A7%F0%9F%87%B7-333333?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/FULL%20STACK-DEVELOPER-111111?style=for-the-badge)
 
 </div>
 
 ---
-
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pessoa programando" />
 
 ## 👨‍💻 Sobre mim
 
@@ -21,8 +33,6 @@ Sou **Douglas Custódio**, desenvolvedor Full Stack brasileiro, apaixonado por t
 Gosto de acompanhar todo o caminho de um projeto: da primeira ideia até a interface, regras de negócio, integrações, dados, infraestrutura, publicação e evolução contínua.
 
 Busco transformar desafios complexos em experiências simples, seguras, bonitas e eficientes. Para mim, desenvolver não é apenas escrever código — é entender necessidades, organizar soluções e entregar algo que tenha valor de verdade. 🚀
-
-<br clear="right"/>
 
 ## 🧬 Um pouco de mim em código
 
@@ -77,8 +87,8 @@ Estou sempre buscando aprender mais, melhorar meus processos e desenvolver proje
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/MEU%20PORTFÓLIO-douglascustodio.com-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://douglascustodio.com)
-[![GitHub](https://img.shields.io/badge/MEU%20GITHUB-douglascustodiodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglascustodiodev)
+[![Portfólio](https://img.shields.io/badge/MEU%20PORTFÓLIO-douglascustodio.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://douglascustodio.com)
+[![GitHub](https://img.shields.io/badge/MEU%20GITHUB-douglascustodiodev-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglascustodiodev)
 
 </div>
 
@@ -103,4 +113,4 @@ Aqui você acompanha um pouco da minha jornada, evolução e paixão por tecnolo
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:111827&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,50:1F1F1F,100:000000&height=100&section=footer" />
